@@ -1,5 +1,5 @@
 # Progetto-AlphaVantage
-Progetto scolastico, sito di borsa con dati presi da alpha vantage
+Progetto scolastico, sito di borsa con dati presi da alpha vantage(nel progetto non sono stati caricati i file aggiuntivi per la librearia MyMapLibre siccome non é consentito l'upload di troppi file)
 
 # FUNZIONALITA'
 
